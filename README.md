@@ -105,6 +105,8 @@ Screenshots are in the [`images/`](images) folder.
 ```
 .
 ├── README.md
-├── data/                
-└── dashboard/          
+├── data
+├── dashboard 
+└── images/              
+         
 ```
