@@ -45,7 +45,7 @@ Every page shares slicers for Region, Purchase Year, Loyalty Program, Marketing 
 | 7. Retention Drivers | Retention by channel and quarter, drop-off rates, days to second purchase |
 | 8. Platform and Loyalty | Revenue by platform and loyalty status, retention by loyalty status |
 
-Screenshots are in the [`images/`](images) folder.
+Screenshots are in the [`Images/`](images) folder.
 
 ![Executive Overview](images/01_overview.png)
 
