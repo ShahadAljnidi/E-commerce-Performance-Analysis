@@ -47,7 +47,7 @@ Every page shares slicers for Region, Purchase Year, Loyalty Program, Marketing 
 
 Screenshots are in the [`images/`](Images) folder.
 
-![Executive Overview](Images/1.%20Executive%20Overview.png)
+![Executive Overview](Images/01-executive-overview.png)
 
 ## Key Metrics
 
